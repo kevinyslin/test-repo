@@ -1,0 +1,4 @@
+{"timestamp":"2025-11-06T17:42:58.995433","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-06T17:43:30.664094","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-06T17:44:01.457163","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-06T17:44:32.188969","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py","logger":"airflow.models.dagbag.DagBag"}

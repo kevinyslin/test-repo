@@ -1,0 +1,4 @@
+{"timestamp":"2025-11-06T17:42:38.753615","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_datetime_operator.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-06T17:43:23.247884","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_datetime_operator.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-06T17:43:54.114055","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_datetime_operator.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-06T17:44:24.896359","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_datetime_operator.py","logger":"airflow.models.dagbag.DagBag"}
