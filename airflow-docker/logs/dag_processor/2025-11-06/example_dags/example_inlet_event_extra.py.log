@@ -3,3 +3,5 @@
 {"timestamp":"2025-11-06T17:43:57.758259","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-11-06T17:44:28.527604","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-11-06T17:44:59.256010","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-06T17:45:29.938695","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-06T17:46:00.722680","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py","logger":"airflow.models.dagbag.DagBag"}
